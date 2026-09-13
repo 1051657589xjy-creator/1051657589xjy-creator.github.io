@@ -1,0 +1,5 @@
+Jiayi Hand is a renamed, web-optimized subset of Xiaolai Regular v3.126.
+Original source: https://github.com/lxgw/kose-font
+Original authors and copyright: see OFL-Xiaolai.txt.
+This font is distributed under the SIL Open Font License 1.1.
+Subset includes this page's text and ASCII; other text falls back to the browser font.
